@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.planet-img {
+  width: 400px;
+  align-self: center;
+}
+.planet-name {
+  color: white;
+  text-align: center;
+}
+.description {
+  color: white;
+
+  text-align: center;
+}
